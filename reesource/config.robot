@@ -1,4 +1,4 @@
 *** Settings ***
 Library    SeleniumLibrary
-library  shhlibrary
-library datetime
+library    SSHLibrary
+library    DateTime
